@@ -2,10 +2,6 @@
 
 Computer Science student at York University in Toronto, focused on building practical, real-world software.
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=2800&pause=1200&color=0F766E&vCenter=true&width=560&lines=Building+practical+full-stack+software;Focused+on+backend+systems+and+automation" alt="Typing intro" />
-</p>
-
 ## About Me
 - I build full-stack and backend-heavy projects with JavaScript and TypeScript.
 - I am currently focused on improving `YorkU-Course-Availability-Notifier`.
@@ -35,10 +31,6 @@ Worked on validation-driven form handling, calendar-based views, and Node.js bac
 ### [AI-Posture-Corrector-and-Analyzer](https://github.com/OmidRahmanian/AI-Posture-Corrector-and-Analyzer)
 Contributed directly in the main repository to a TypeScript + Python posture analysis product focused on identifying posture issues and delivering corrective guidance.
 Collaborated through active commit and pull-request workflows to improve core application functionality.
-
-## GitHub Stats
-![Gurkaran's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gurkarangill07&show_icons=true&hide_border=true&title_color=0F766E&icon_color=0F766E)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gurkarangill07&layout=compact&hide_border=true&title_color=0F766E)
 
 ## Connect
 - Instagram: [@gurkaran_gill36](https://instagram.com/gurkaran_gill36)
