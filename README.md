@@ -33,9 +33,10 @@ Contributed directly in the main repository to a TypeScript + Python posture ana
 Collaborated through active commit and pull-request workflows to improve core application functionality.
 
 ## GitHub Stats
-![Followers](https://img.shields.io/github/followers/gurkarangill07?style=for-the-badge&color=111111)
-![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=111111&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgurkarangill07)
-![Following](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=111111&label=Following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgurkarangill07)
+<p align="left">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurkarangill07&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurkarangill07&theme=github_dark" />
+</p>
 
 ## Connect
 - Instagram: [@gurkaran_gill36](https://instagram.com/gurkaran_gill36)
