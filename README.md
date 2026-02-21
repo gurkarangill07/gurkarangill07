@@ -10,6 +10,7 @@ Computer Science student at York University in Toronto, focused on building prac
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
@@ -32,9 +33,9 @@ Contributed directly in the main repository to a TypeScript + Python posture ana
 Collaborated through active commit and pull-request workflows to improve core application functionality.
 
 ## GitHub Stats
-![Gurkaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurkarangill07&show_icons=true&hide_border=true&title_color=0F766E&icon_color=0F766E)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurkarangill07&layout=compact&hide_border=true&title_color=0F766E)
+![Followers](https://img.shields.io/github/followers/gurkarangill07?style=for-the-badge&color=111111)
+![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=111111&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgurkarangill07)
+![Following](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=111111&label=Following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgurkarangill07)
 
 ## Connect
-- GitHub: [github.com/gurkarangill07](https://github.com/gurkarangill07)
 - Instagram: [@gurkaran_gill36](https://instagram.com/gurkaran_gill36)
