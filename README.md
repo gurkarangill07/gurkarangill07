@@ -1,4 +1,4 @@
-# Hi, I'm Gurkaran Gill
+# Hi, I'm Gurkaran Singh
 
 Computer Science student at York University in Toronto, focused on building practical, real-world software.
 
